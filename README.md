@@ -83,6 +83,8 @@ Car marketplace web app with user auth, CRUD functionality, and clean UI/UX.
 
 ![Zk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaryabKhan222&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabKhan222&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaryabKhan222&show_icons=true&theme=transparent)
+
 
 ---
 
