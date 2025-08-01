@@ -1,3 +1,12 @@
+
+<!-- Typing animation header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=14F7B3&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Zaryab_Anwar;MERN+Stack+%2B+AI+Developer;Passionate+about+building+smart+UIs+%26+LLM+apps!" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
 # 👋 Hello, I am Zaryab Anwar!
 
 🔧 Full-Stack Web Developer | 🎯 Front-End Specialist | 🤖 Aspiring AI Engineer  
