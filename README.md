@@ -55,13 +55,6 @@ Passionate about building smart, scalable, and user-centric solutions at the int
 
 ---
 
-## 💼 Experience
-
-### 🏢 Evamp & Saanga — *MERN Stack Developer Intern*
-> Contributed to front-end module development using React, built reusable components, and collaborated on full-stack integration.
-
-### 📊 EDM — *Data Analyst Intern*
-> Worked on cleaning, analyzing, and visualizing data using Python, Pandas, and Matplotlib.
 
 ---
 
