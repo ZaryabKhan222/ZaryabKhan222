@@ -22,7 +22,7 @@ Passionate about building smart, scalable, and user-centric solutions at the int
 - 🤖 Exploring **AI/ML**, Prompt Engineering, and LLM Integrations  
 - 🌍 Based in **Pakistan** — open to remote collaborations and opportunities
   
-  ![GitHub Snake](https://github.com/ZaryabKhan222/ZaryabKhan222/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
